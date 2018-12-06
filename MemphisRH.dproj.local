@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/12/06 09:54:42.000.672,=C:\Users\Desenvolv\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/12/06 09:55:35.000.160,C:\Users\Desenvolv\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Projetos\MemphisRH\untPrincipal.pas</Transaction>
+    <Transaction>2018/12/06 09:55:35.000.160,C:\Users\Desenvolv\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Projetos\MemphisRH\untPrincipal.fmx</Transaction>
+    <Transaction>2018/12/06 09:55:40.000.157,C:\Users\Desenvolv\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Projetos\MemphisRH\MemphisRH.dproj</Transaction>
+    <Transaction>2018/12/06 11:27:53.000.643,=C:\Projetos\MemphisRH\Unit1.pas</Transaction>
+    <Transaction>2018/12/06 11:28:34.000.209,=C:\Projetos\MemphisRH\Unit1.pas</Transaction>
+    <Transaction>2018/12/06 11:28:43.000.722,C:\Projetos\MemphisRH\Unit1.pas=C:\Projetos\MemphisRH\DM.pas</Transaction>
+    <Transaction>2018/12/06 11:28:43.000.722,C:\Projetos\MemphisRH\Unit1.dfm=C:\Projetos\MemphisRH\DM.dfm</Transaction>
+    <Transaction>2018/12/06 11:34:45.000.202,=C:\Projetos\MemphisRH\untBase64.pas</Transaction>
+    <Transaction>2018/12/06 13:11:46.000.919,C:\Projetos\MemphisRH\DM.pas=</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android=""/>
+	</ActiveMobileDevice>
+</BorlandProject>
